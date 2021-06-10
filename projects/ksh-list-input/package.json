@@ -1,0 +1,23 @@
+{
+  "name": "ksh-list-input",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kshitij Arade",
+    "email": "kshitijarade.dev@gmail.com",
+    "url": "https://github.com/kshitijarade"
+  },
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+
+  ],
+  "peerDependencies": {
+    "@angular/common": "^10.2.4",
+    "@angular/core": "^10.2.4",
+    "jquery": "^3.6.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}

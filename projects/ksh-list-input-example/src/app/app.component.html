@@ -1,0 +1,9 @@
+<form [formGroup]="form" (ngSubmit)="submit()" novalidate autocomplete="off">
+  <ksh-list-input formControlName="ids" [options]="opts"></ksh-list-input>
+  <button type="submit" class="btn btn-primary" style="margin-top: 10px;">Submit</button>
+</form>
+
+<div style="margin: 20px;">
+  <label>{{ form.value | json }}</label>
+  <label>touched : {{ ids.touched | json }}</label>
+</div>

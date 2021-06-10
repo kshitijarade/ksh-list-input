@@ -2,6 +2,9 @@
 
 This is a custom form control which accepts/validates list of values separated by comma
 
+You can type in values and hit ENTER or COMMA to add values to list
+The output is array of values.
+
 ![Image](./assets/ksh-list-input.png)
 
 ## Versions:

@@ -1,6 +1,7 @@
 {
   "name": "ksh-list-input",
   "version": "0.0.1",
+  "license": "MIT",
   "author": {
     "name": "Kshitij Arade",
     "email": "kshitijarade.dev@gmail.com",
@@ -10,7 +11,7 @@
     "url": ""
   },
   "keywords": [
-
+    "list input", "multi-value", "combobox", "list-input"
   ],
   "peerDependencies": {
     "@angular/common": "^10.2.4",

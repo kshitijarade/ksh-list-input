@@ -5,7 +5,7 @@ This is a custom form control which accepts/validates list of values separated b
 You can type in values and hit ENTER or COMMA to add values to list
 The output is array of values.
 
-![Image](./ksh-list-input.png)
+![Image](https://raw.github.com/kshitijarade/ksh-list-input/master/ksh-list-input.png)
 
 ## Versions:
 

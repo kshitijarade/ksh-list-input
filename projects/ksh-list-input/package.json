@@ -1,6 +1,6 @@
 {
   "name": "ksh-list-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "Kshitij Arade",
@@ -16,10 +16,10 @@
   ],
   "peerDependencies": {
     "@angular/common": "^10.2.4",
-    "@angular/core": "^10.2.4",
-    "jquery": "^3.6.0"
+    "@angular/core": "^10.2.4"
   },
   "dependencies": {
-    "tslib": "^2.0.0"
+    "tslib": "^2.0.0",
+    "jquery": "^3.6.0"
   }
 }

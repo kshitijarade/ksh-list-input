@@ -1,6 +1,6 @@
 {
   "name": "ksh-list-input",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": {
     "name": "Kshitij Arade",
@@ -8,7 +8,8 @@
     "url": "https://github.com/kshitijarade"
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/kshitijarade/ksh-list-input.git",
+    "type": "git"
   },
   "keywords": [
     "list input", "multi-value", "combobox", "list-input"

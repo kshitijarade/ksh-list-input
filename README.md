@@ -1,6 +1,6 @@
 # ksh-list-input
 
-This is a custom form control which accepts/validates list of values seperated by comma
+This is a custom form control which accepts/validates list of values separated by comma
 
 ![Image](./ksh-list-input.png)
 
